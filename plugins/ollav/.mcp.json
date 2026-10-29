@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "ollav": {
+      "type": "http",
+      "url": "https://app.ollav.app/mcp",
+      "headers": { "Authorization": "Bearer ${OLLAV_API_KEY}" }
+    }
+  }
+}
+
+
+
+
+
