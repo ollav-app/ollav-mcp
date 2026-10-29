@@ -1,0 +1,10 @@
+{
+  "name": "ollav",
+  "version": "1.1.0",
+  "description": "Share HTML prototypes as live, commentable links; read pinned review comments; publish new versions at the same URL.",
+  "author": { "name": "Ollav", "url": "https://ollav.app" },
+  "homepage": "https://ollav.app/docs/mcp",
+  "repository": "https://github.com/ollav-app/ollav-mcp",
+  "license": "MIT",
+  "keywords": ["html", "prototype", "review", "comments", "mcp", "share"]
+}
