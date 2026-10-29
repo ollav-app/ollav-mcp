@@ -1,0 +1,14 @@
+{
+  "name": "ollav",
+  "owner": { "name": "Ollav", "url": "https://ollav.app" },
+  "metadata": { "description": "Ollav's Claude Code plugin: share HTML prototypes as live links and act on pinned review comments." },
+  "plugins": [
+    {
+      "name": "ollav",
+      "source": "./plugins/ollav",
+      "description": "Share HTML prototypes as live, commentable links; read pinned review comments; publish new versions at the same URL.",
+      "category": "productivity",
+      "homepage": "https://ollav.app/docs/mcp"
+    }
+  ]
+}
